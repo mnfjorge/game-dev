@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "typeRoots": [
+      "src/typings"
+    ]
+  },
+  "include": [
+    "src/**/*"
+  ]
+}
